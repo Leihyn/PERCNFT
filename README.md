@@ -1,4 +1,4 @@
-# ERC-721 Token Creation Project
+# PERC-721 Token Creation Project
 
 This project demonstrates how to create and deploy a private ERC721 (non-fungible token) smart contract using Hardhat, a popular Solidity development framework. The project is deployed on the Swisstronik network.
 
@@ -27,8 +27,8 @@ Here is the main guide: [Swisstronik Contract Deployment with Hardhat](https://s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Leihyn/swissERC721.git 
-cd erc721-token-swisstronik
+git clone https://github.com/Leihyn/PERCNFT.git 
+cd PERCNFT-token-swisstronik
 ```
 
 ### 2. Install Dependencies
